@@ -3,7 +3,7 @@
 
 
 
-# CURSO DE HTML +CSS - FLEXBOX  👽
+# CURSO DE HTML + CSS - FLEXBOX  👽
 
 ´´´
 Curso de para practicar CSS y HTML e incluir un diseño responsive con Flexbox. 🤖
