@@ -13,8 +13,8 @@ Curso de para practicar CSS y HTML e incluir un diseño responsive con Flexbox. 
 # SCREENSHOT 📲
 
 
-<img src="img1">
-<img src="img2">
+<img src="img1.png">
+<img src="img2.png">
 
 
 
